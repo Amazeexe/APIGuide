@@ -1,5 +1,5 @@
 
-### [API Requests and Responses](02_request_response)
+### API Requests and Responses
  APIs use the HTTP protocol to handle requests and responses.  
 - **HTTP Methods:**  
   - `GET`: Retrieves data.  
