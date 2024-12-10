@@ -1,4 +1,4 @@
-### [Example Implementation in Python](05_Python_Code.md)
+### Example Implementation in Python
 1. Enter your API key "your_api_key_here
 2. Enter the selected city into the "city" variable.
 
