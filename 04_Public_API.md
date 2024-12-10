@@ -7,4 +7,6 @@
    - Example Query: `?q=London&appid=your_api_key&units=metric`
   
 
-[Next: Understanding API Requests and Responses](04_Python_Code.md)
+[Next: Python Code](05_Python_Code.md)
+
+[Previous: Required Tools](03_required_tools.md)
