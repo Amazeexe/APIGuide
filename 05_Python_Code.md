@@ -17,7 +17,8 @@ if response.status_code == 200:
 else:
     print("Error: Unable to fetch data")
 ```
+[Next: Weather App](06_WeatherApp.md)
 
 [Previous: Public API](04_Public_API.md)
 
-[Next: Weather App](06_WeatherApp.md)
+
