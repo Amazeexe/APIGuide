@@ -18,4 +18,6 @@ else:
     print("Error: Unable to fetch data")
 ```
 
+[Previous: Public API](04_Public_API.md)
 
+[Next: Weather App](06_WeatherApp.md)
