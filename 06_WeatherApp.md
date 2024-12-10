@@ -28,4 +28,6 @@ else:
     print(f"Temperature: {result['temperature']}°C")
 
 ```
+[Previous: Understanding API Requests and Responses](05_Python_Code.md)
+
 [Next: Understanding API Requests and Responses](07_Important_pracices)
