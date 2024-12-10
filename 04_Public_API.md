@@ -1,4 +1,4 @@
-### [Working With Public APIs](04_Public_API)
+### Working With Public APIs
 
 **Example API for this tutorial: OpenWeatherMap**
 1. Create a free account at https://openweathermap.org/api and retrieve the API key.
