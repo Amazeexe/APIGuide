@@ -10,7 +10,7 @@
 2. [API Resquests and Responses](02_request_response.md)
 3. [Required Tools](03_required_tools.md)
 4. [Using Public API](04_Public_API)
-5. [Consuming an API with Code](05_code.md)
+5. [Consuming an API with Code](05_Python_Code.md)
 6. [Example Weather Project](06_WeatherProj.md)
 7. [Important Practices](07_practices.md)
 
