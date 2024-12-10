@@ -16,6 +16,8 @@ It is also important to Respect Rate Limits
         print("Fetching data...")
         time.sleep(1)  # 1-second delay
   ```
+  [Previous: Weather App](06_WeatherApp.md)
 
-  [Next: Understanding API Requests and Responses](01_introduction.md)
+
+   [Return to ReadMe: Understanding API Requests and Responses](README.md)
   
